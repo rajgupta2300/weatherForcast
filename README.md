@@ -9,10 +9,10 @@
 9. npm run dev
 10. after that this will occur ( given bellow )
 11. 
-> weather-app@0.1.0 dev
-> vite
+  > weather-app@0.1.0 dev
+  > vite
 
-Port 5173 is in use, trying another one...
+  Port 5173 is in use, trying another one...
 
   VITE v5.4.8  ready in 286 ms
 
@@ -22,3 +22,4 @@ Port 5173 is in use, trying another one...
 12. now click http://localhost:5174/ link or copy it to open it in your browser
 13. wallah ! you made it 
 14. enjoy!
+
